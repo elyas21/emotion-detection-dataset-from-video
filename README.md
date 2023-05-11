@@ -3,8 +3,7 @@
 you can try it on google colab 
 ["https://colab.research.google.com/assets/colab-badge.svg"](https://colab.research.google.com/github/elyas21/emotion-detection-dataset-from-video/blob/main/colab_notebook.ipynb )
 
-![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
-<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
+![alt text](https://fwtbbmf399.execute-api.us-east-1.amazonaws.com/Prod/svg?source=https://raw.githubusercontent.com/vitalibo/markdown-inline-svg/master/readme.md&name=sample.svg)
 
 
 
