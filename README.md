@@ -11,5 +11,9 @@ ETL
 
 
 
+## Steps
+
+### download video 
+    You can either download and move video to data/row/video or use the Load_Video method in the code.
 
 

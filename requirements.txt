@@ -1,2 +1,5 @@
-gdwon
-opencv-contrib-python
+opencv-contrib-python==4.7.0.72
+gdown==4.7.1
+tensorflow
+mtcnn
+pybboxes=1.23.5
