@@ -22,5 +22,16 @@ ETL
 
 ### download video 
     You can either download and move video to data/row/video or use the Load_Video method in the code.
-
-
+      ```
+      src.Load_Video.Load_video()
+      ```
+### Extract frames from video 
+    
+     ```
+      src.extract()
+     ```
+### classifie and generete detection dataset 
+    
+      ```
+      src.classifie_Emotions()
+      ```
